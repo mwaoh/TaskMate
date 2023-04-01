@@ -1,2 +1,2 @@
 # TaskMate
-To do list app for your tasks
+Android app, To do list for your tasks
