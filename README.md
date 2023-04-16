@@ -3,24 +3,24 @@ Android app, To do list for your tasks
 An intergration of google calender , alarm and To do list 
 
 
-Research 
+## Research 
 
-Dev life-cycle
+## Dev life-cycle
 
-Jetpack Compose
+## Jetpack Compose
 signin/  signup
 User Interface
 
-architecture
+## Architecture
   MVVM/MVM
   
-APIs
+## APIs
   Google calender
   Alarm
   To do list,notifications
   
-Testing and Debuging
+3# Testing and Debuging
     Network khttp 
     
-Deploy
+## Deploy
 Play store
